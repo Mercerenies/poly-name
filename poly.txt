@@ -1,0 +1,3 @@
+#define print(X) int printf(const char* ch, ...); int main() { printf("C\n"); }
+print(("[puts Tcl] [exit 0]" and ((([["Ruby\n" , "Python" ]])[0] or "" ) [(((1 / 2) > 0) or 0)] or "Lua" )))
+
